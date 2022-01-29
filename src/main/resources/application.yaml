@@ -1,0 +1,5 @@
+yhClient:
+  clientId: client_yh
+  clientSecret: 123456
+server:
+  port: 8081
